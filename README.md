@@ -1,5 +1,15 @@
-# Data-driven Business Analyst Graduate
+# Neetu Kumari - Data-driven Business Analyst Graduate
 
+## About Me
+Hello there! I'm Neetu, a potential graduate student of a Business Analyst postgraduate diploma from Cape Breton University, Canada, and holds a master's degree in Mathematics. I specialize in data analytics, using tools like Python, R, SQL, Excel, SPSS, and Tableau to collect and analyze data for informed business decisions.
+
+My portfolio showcases various projects, including dashboards and reports created with Tableau, and Excel. These projects highlight my skills in clear and visually appealing data presentation, making insights easily understandable for decision-makers.
+
+I've also worked on programming projects in Python, SQL, R and SPSS, demonstrating my ability to extract valuable insights from complex datasets and integrate data from multiple sources.
+
+Beyond technical skills, I bring a strategic mindset to data analysis, emphasizing critical thinking and problem-solving. I believe my experience makes me an ideal candidate for any data analyst role. I'd love the opportunity to discuss my qualifications further with you. Thanks for checking out my portfolio!
+
+You can see more information in my [CV](
 #### Technical Skills: Python, SQL, Tableau, R lang, SPSS, C, C++
 
 
