@@ -9,7 +9,7 @@ I've also worked on programming projects in Python, SQL, R and SPSS, demonstrati
 
 Beyond technical skills, I bring a strategic mindset to data analysis, emphasizing critical thinking and problem-solving. I believe my experience makes me an ideal candidate for any data analyst role. I'd love the opportunity to discuss my qualifications further with you. Thanks for checking out my portfolio!
 
-You can see more information in my [CV](https://github.com/neetu4595/Portfolio/blob/main/Neetu_Resume(2).pdf)
+You can see more information in my [CV](https://github.com/neetu4595/Portfolio/blob/main/Neetu_Resume%20(2).pdf)
 
 
 #### Technical Skills: Python, SQL, Tableau, R lang, SPSS, C, C++
