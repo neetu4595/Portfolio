@@ -9,7 +9,8 @@ I've also worked on programming projects in Python, SQL, R and SPSS, demonstrati
 
 In addition to my experience in Data Analysis, I have conducted a project titled "A Comparative Study on Diffusion Models for Tabular Data Synthesis in Healthcare." I also had the opportunity to present the corresponding poster at an AI Symposium held at Dalhousie University in Canada.
 
-Beyond technical skills, I bring a strategic mindset to data analysis, emphasizing critical thinking and problem-solving. I believe my experience makes me an ideal candidate for any data analyst role. I'd love the opportunity to discuss my qualifications further with you. For further details about my professional background and to connect, please find me on [LinkedIn](https://www.linkedin.com/in/neetu1995/). Thanks for checking out my portfolio!
+Beyond technical skills, I bring a strategic mindset to data analysis, emphasizing critical thinking and problem-solving. I believe my experience makes me an ideal candidate for any data analyst role. I'd love the opportunity to discuss my qualifications further with you. For further details about my professional background and to connect, please find me on [LinkedIn](https://www.linkedin.com/in/neetu1995/). 
+Thanks for checking out my portfolio!
 
 You can see more information in my [CV](https://github.com/neetu4595/Portfolio/blob/main/Neetu_Resume%20(2).pdf)
 
@@ -18,10 +19,10 @@ You can see more information in my [CV](https://github.com/neetu4595/Portfolio/b
 
 
 ## Education
-- PBD in Business Analytics | Cape Breton University, NS, Canada (_2022-2024_)
-- BEd in Mathematical Education | CRSU, Haryana, India (_2018-2020_)
-- MSc in Mathematics | Hyderabad University, Telangana, India (_2016-2018_)
-- BSc in Mathematics | Delhi University, Delhi, India (_2013-2016_)
+- PBD in Business Analytics | Cape Breton University, Canada (_2022-2024_)
+- BEd in Mathematical Education | CRSU, India (_2018-2020_)
+- MSc in Mathematics | Hyderabad University, India (_2016-2018_)
+- BSc in Mathematics | Delhi University, India (_2013-2016_)
 
 ## Work Experience
 **Research Assistant @CBU (_May2024-Present_)**
