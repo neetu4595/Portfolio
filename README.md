@@ -12,7 +12,7 @@ In addition to my experience in Data Analysis, I have conducted a project titled
 Beyond technical skills, I bring a strategic mindset to data analysis, emphasizing critical thinking and problem-solving. I believe my experience makes me an ideal candidate for any data analyst role. I'd love the opportunity to discuss my qualifications further with you. For further details about my professional background and to connect, please find me on [LinkedIn](https://www.linkedin.com/in/neetu1995/). 
 Thanks for checking out my portfolio!
 
-You can see more information in my [CV](https://github.com/neetu4595/Portfolio/blob/main/Resume%20(2).pdf)
+You can see more information in my [CV](https://github.com/neetu4595/Portfolio/blob/main/NeetuKumariResume.pdf)
 
 
 #### Technical Skills: Python, SQL, Tableau, R lang, SPSS, C, C++
