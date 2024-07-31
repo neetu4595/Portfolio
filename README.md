@@ -26,15 +26,17 @@ You can see more information in my [CV](https://github.com/neetu4595/Portfolio/b
 
 ## Work Experience
 **Research Assistant @CBU (_May2024-Present_)**
-- Apply statistical and analytical techniques to interpret data.
-- Use software tools like Python, SQL, or specialized analytics platforms to analyze data.
-- Develop and implement models and algorithms to process data.
+- Conduct research on various topics, including "Generation and Evaluation of Synthetic Data Using Generative Models" and "Explainable AI".
+- Collect, prepare, and clean data from various sources using tools such as Excel, Python, and SQL.
+- Generate synthetic data and evaluate it using statistical models and methods (KS distance, Chi Square test, DCR etc.), leveraging Python’s visualization libraries (e.g., Matplotlib, Seaborn) and Power BI for comprehensive analysis.
+- Review and synthesize existing literature from Google Scholar, books, and articles, documenting research outcomes regularly.
+- Present research progress biweekly to my research mentor, incorporating feedback and updates to refine the work.
 
 **Sales Advisor - Consultant @Concentrix (_June2023-Present_)**
-- Utilized SQL and CRM tools to analyze customer purchase data, enhancing monthly sales targets by 15% through data-driven insights.
-- Developed and maintained daily management reports and dashboards that supported data-driven decision-making processes.
+- Proficiently analyzed incoming data streams to extract valuable insights and enhance customer service strategies.
+- Employed analytical and problem solving skills to understand customer needs and recommend data-driven solutions, contributing to elevated customer satisfaction and retention rates.
 - Consistently surpassing sales and monthly targets, recognized as the top-performing employee for the month.
-
+- Implemented robust data management protocols to maintain detailed records of customer interactions, including issues, recommended solutions, and transactional data.
 ## Projects and Academic Paper
 ### Poster on A Comparative Study on Diffusion Models for Tabular Data Synthesis in Healthcare
 [Poster](https://github.com/neetu4595/Portfolio_Projects/blob/main/Poster.pdf)
