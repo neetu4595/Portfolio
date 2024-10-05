@@ -15,7 +15,16 @@ Thanks for checking out my portfolio!
 You can see more information in my [CV](https://github.com/neetu4595/Portfolio/blob/main/ResumeNeetuKumari..pdf)
 
 
-#### Technical Skills: Python, SQL, Tableau, R lang, SPSS, C, C++
+#### Certification:
+– Introduction to Python - DataCamp
+– Microsoft Power BI Data Analyst Professional Certificate - Coursera
+#### Technical Skills:
+– Data Analysis & Statistics: R language, Mathematics, Statistics, MySQL, SPSS, Mathematica, Matlab, MS Excel.
+– Project Management: Experienced in synthesizing complex data into actionable insights
+– Visualization & Programming: Tableau, Power BI, Python, C, C++.
+#### Soft Skills:
+– Communication Skills: Communicating complex data insights effectively, Written communication, Presentation.
+– Organizational Skills: Managing multiple tasks and projects, Time Management, Organizational skills.
 
 
 ## Education
