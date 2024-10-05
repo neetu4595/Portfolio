@@ -42,10 +42,10 @@ You can see more information in my [CV](https://github.com/neetu4595/Portfolio/b
 - Developed and presented execution plans for government projects to municipal and provincial officials, ensuring alignment with legislative requirements and strategic goals.
 - Managed financial records, ensuring accuracy through regular updates and reconciliation to prevent discrepancies.
 - Monitored project progress, resolving issues to maintain compliance with established procedures and timelines.
-- 
+
 ## Projects and Academic Paper
 ### Published Research Paper titled "A comparative exploration of two diffusion generative models on tabular data synthesis" in "International Journal of Data Science and Analytics"
-[Paper]([https://github.com/neetu4595/Portfolio_Projects/blob/main/Poster.pdf](https://link.springer.com/article/10.1007/s41060-024-00653-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20241005&utm_content=10.1007/s41060-024-00653-3))
+[Paper](https://github.com/neetu4595/Portfolio_Projects/blob/main/Poster.pdf](https://link.springer.com/article/10.1007/s41060-024-00653-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20241005&utm_content=10.1007/s41060-024-00653-3)
 
 This paper explores a comparative analysis of two diffusion models, TabDDPM and TabSyn, in the context of tabular data synthesis. The evaluation of the generated synthetic data focuses on three main criteria: similarity, utility, and privacy preservation. The comparative study involved assessing both models across six datasets that vary in features and sizes. The results indicate that TabSyn outperforms TabDDPM across the majority of metrics within all three evaluation criteria for all datasets.
 
